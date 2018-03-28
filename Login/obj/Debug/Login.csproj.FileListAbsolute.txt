@@ -1,0 +1,5 @@
+/Users/coldheat/Projects/Login/Login/bin/Debug/Login.dll
+/Users/coldheat/Projects/Login/Login/bin/Debug/Login.pdb
+/Users/coldheat/Projects/Login/Login/obj/Debug/Login.csproj.CoreCompileInputs.cache
+/Users/coldheat/Projects/Login/Login/obj/Debug/Login.dll
+/Users/coldheat/Projects/Login/Login/obj/Debug/Login.pdb
